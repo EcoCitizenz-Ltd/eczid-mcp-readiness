@@ -103,3 +103,25 @@ It assesses one MCP implementation and produces a severity-ranked findings repor
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 Review findings and Resolver evidence within your own security and procurement policy.
+
+---
+
+## Automate the re-check
+
+For supported committed MCP/agent configuration, use **ECZ-ID MCP & Agent Check** in GitHub.
+
+[Install MCP & Agent Check](https://github.com/marketplace/ecz-id-mcp-agent-check)
+
+For a known ECZ-ID parent reference, **ECZ-ID MCP Verifier** can re-check public Resolver posture in CI:
+
+```yaml
+- name: Re-check ECZ-ID public Resolver posture
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.2
+  with:
+    target: ECZ-GB-RBS1NW
+    policy: PREFER
+```
+
+[View ECZ-ID MCP Verifier](https://github.com/Ecocitizenz/ecz-id-mcp-verifier)
+
+This is a posture/evidence re-check, not a claim that an MCP server is safe or approved.

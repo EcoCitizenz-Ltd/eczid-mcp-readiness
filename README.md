@@ -1,5 +1,7 @@
 # ECZ-ID MCP Readiness
 
+![ECZ-ID MCP Readiness assessment, migration and deployment visual](https://raw.githubusercontent.com/EcoCitizenz-Ltd/.github/main/assets/repository-visuals/eczid-mcp-readiness.jpg)
+
 ## Move from "it works in the demo" to evidence your reviewers can assess.
 
 A practical MCP readiness resource for teams preparing MCP servers and integrations for production, security review or procurement.
@@ -98,8 +100,7 @@ It assesses one MCP implementation and produces a severity-ranked findings repor
 
 ## Public operator proof
 
-**ECZ-ID VERIFIED - ECZ-GB-RBS1NW**
-
+**ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 Review findings and Resolver evidence within your own security and procurement policy.

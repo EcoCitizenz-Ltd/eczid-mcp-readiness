@@ -116,7 +116,7 @@ For a known ECZ-ID parent reference, **ECZ-ID MCP Verifier** can re-check public
 
 ```yaml
 - name: Re-check ECZ-ID public Resolver posture
-  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.3
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.4
   with:
     target: ECZ-GB-RBS1NW
     policy: PREFER

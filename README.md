@@ -101,7 +101,7 @@ It assesses one MCP implementation and produces a severity-ranked findings repor
 ## Public operator proof
 
 **ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
-[View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
+[View current public identity and evidence](https://resolver.ecocitizenz.org/p/ECZ-GB-RBS1NW)
 
 Review findings and Resolver evidence within your own security and procurement policy.
 
@@ -117,7 +117,7 @@ For a known ECZ-ID parent reference, **ECZ-ID MCP Verifier** can re-check public
 
 ```yaml
 - name: Re-check ECZ-ID public Resolver posture
-  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.4
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.9.1
   with:
     target: ECZ-GB-RBS1NW
     policy: PREFER

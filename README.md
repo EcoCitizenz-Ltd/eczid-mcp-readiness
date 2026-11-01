@@ -90,11 +90,11 @@ For pull-request and committed-configuration checks:
 
 ## Professional MCP Readiness Audit
 
-For teams that need a human-reviewed assessment rather than only self-service tooling, EcoCitizenz currently offers the fixed-scope **MCP Readiness Audit at £395**.
+For teams that need a human-reviewed assessment rather than only self-service tooling, EcoCitizenz offers the **MCP Readiness Audit**. Current scope, availability and price live only on the canonical MCP service page so this GitHub repository cannot become a stale commercial source of truth.
 
 It assesses one MCP implementation and produces a severity-ranked findings report and remediation plan.
 
-[See the £395 MCP Readiness Audit](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=audit)
+[See the current MCP Readiness Audit scope and price](https://mcp.ecocitizenz.com/services/readiness-audit?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=audit)
 
 ---
 

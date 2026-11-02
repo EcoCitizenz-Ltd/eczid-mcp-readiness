@@ -8,15 +8,15 @@ A practical MCP readiness resource for teams preparing MCP servers and integrati
 
 ### Start free
 
-[Run the free MCP Readiness Scanner](https://mcp.ecocitizenz.com/scanner?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=scanner)
+[Run the free MCP Readiness Scanner](https://mcp.ecocitizenz.com/scanner?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=scanner&ecz_source=github&ecz_surface=eczid-mcp-readiness)
 
 [Install ECZ-ID MCP Trust Free](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-mcp-trust)
 
 [Install the free MCP & Agent Check GitHub App](https://github.com/marketplace/ecz-id-mcp-agent-check)
 
-[Download the free MCP & AI Agent Trust Preflight](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=preflight)
+[Download the free MCP & AI Agent Trust Preflight](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=preflight&ecz_source=github&ecz_surface=eczid-mcp-readiness)
 
-[Explore professional MCP services](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=services)
+[Explore professional MCP services](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=services&ecz_source=github&ecz_surface=eczid-mcp-readiness)
 
 ---
 
@@ -72,7 +72,7 @@ Before relying on an MCP implementation, review:
 
 The ECZ-ID MCP Readiness Scanner performs passive configuration analysis in the browser and does not execute the MCP configuration.
 
-[Run the free scanner](https://mcp.ecocitizenz.com/scanner?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=run-scanner)
+[Run the free scanner](https://mcp.ecocitizenz.com/scanner?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=run-scanner&ecz_source=github&ecz_surface=eczid-mcp-readiness)
 
 ---
 
@@ -80,7 +80,7 @@ The ECZ-ID MCP Readiness Scanner performs passive configuration analysis in the 
 
 For ongoing local inspection:
 
-[ECZ-ID MCP Trust](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=mcp-trust)
+[ECZ-ID MCP Trust](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=mcp-trust&ecz_source=github&ecz_surface=eczid-mcp-readiness)
 
 For pull-request and committed-configuration checks:
 
@@ -94,7 +94,7 @@ For teams that need a human-reviewed assessment rather than only self-service to
 
 It assesses one MCP implementation and produces a severity-ranked findings report and remediation plan.
 
-[See the current MCP Readiness Audit scope and price](https://mcp.ecocitizenz.com/services/readiness-audit?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=audit)
+[See the current MCP Readiness Audit scope and price](https://mcp.ecocitizenz.com/services/readiness-audit?utm_source=github&utm_medium=repository&utm_campaign=mcp-readiness&utm_content=audit&ecz_source=github&ecz_surface=eczid-mcp-readiness)
 
 ---
 
